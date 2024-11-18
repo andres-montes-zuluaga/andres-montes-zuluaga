@@ -33,7 +33,8 @@ Et, je suis Artiste Multidisciplinaire avec un Master 2 en Theatre et arts vivan
 
 ## Projets
 
-### Prométéa, laboratoire ouvert (OpenLab) de recherche post-disciplinaire sur les pratiques de coexistence entre humains et animaux.
+### Prométéa
+Laboratoire ouvert (OpenLab) de recherche post-disciplinaire sur les pratiques de coexistence entre humains et animaux.
 
 #### Description
 - Developeur web
@@ -43,7 +44,11 @@ https://prometea.live/
 Développement d'une plateforme web pour la coproduction scientifique sur la santé animale. Elle comprend différents types d'utilisateurs ayant accès à différentes zones de la plateforme en fonction du groupe de recherche auquel ils appartiennent. On peut imaginer un espace de coworking mais en ligne. Vidéo, chats, profils, listes de membres, publication de résultats, calendriers, le tout au sein d'une solution web unique.
 ![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/o2g3ffi8pp3scuhaxzaq)
 
-### Madma Productions, laboratoire ouvert (OpenLab) de recherche post-disciplinaire sur les pratiques de coexistence entre humains et animaux.
+<br>
+<br>
+
+### Madma Productions
+Structure de création du duo franco-colombien Maud Madlyn et Andrés Montes Zuluaga. Après 10 ans d’expérience et avoir parcouru l’Inde, l'Europe et l'Amerique Latine, Madma est installée en France, à Marseille, où elle est juridiquement constituée en juin 2022.
 
 #### Description
 - Developeur web et Co-directeur artistique
