@@ -33,13 +33,25 @@ Et, je suis Artiste Multidisciplinaire avec un Master 2 en Theatre et arts vivan
 
 ## Projets
 
-### Prométéa
+### Prométéa, laboratoire ouvert (OpenLab) de recherche post-disciplinaire sur les pratiques de coexistence entre humains et animaux.
 
 #### Description
 - Developeur web
 De Décembre 2022 à Aujourd'hui
+https://prometea.live/
 
 Développement d'une plateforme web pour la coproduction scientifique sur la santé animale. Elle comprend différents types d'utilisateurs ayant accès à différentes zones de la plateforme en fonction du groupe de recherche auquel ils appartiennent. On peut imaginer un espace de coworking mais en ligne. Vidéo, chats, profils, listes de membres, publication de résultats, calendriers, le tout au sein d'une solution web unique.
 ![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/o2g3ffi8pp3scuhaxzaq)
 
+### Madma Productions, laboratoire ouvert (OpenLab) de recherche post-disciplinaire sur les pratiques de coexistence entre humains et animaux.
+
+#### Description
+- Developeur web et Co-directeur artistique
+De Juin 2023 à Aujourd'hui
+https://madma.org/
+
+Conception et réalisation d'un site vitrine pour une compagnie de spectacle vivant basée à Marseille.
+Les plugins HelloAsso ont été intégrés pour recevoir les dons des mécenats et les contributions à un crowdfunding.
+Le site est actuellement en cours d'ouverture d'un site de commerce électronique. Par ailleurs, il est également en cours de traduction en anglais et en espagnol.
+![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/ghjhpohnphh74rfap1dx)
 
