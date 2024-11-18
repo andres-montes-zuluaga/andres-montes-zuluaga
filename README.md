@@ -66,5 +66,11 @@ Le site est actuellement en cours d'ouverture d'un site de commerce électroniqu
 
 ## Badges
 
+### Web Development with Python
+![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/bzaqvion8iclhip6unss)
+
+
+
 ### Artificial Intelligence Fundamentals
-![App Screenshot](https://skills.yourlearning.ibm.com/credential/CREDLY-29bdaec3-af04-458e-a70e-2e6fa78c5dd5)
+![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/zxxevejphkiuoxarbvcs)
+
