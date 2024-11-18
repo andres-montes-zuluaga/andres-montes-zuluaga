@@ -23,7 +23,7 @@ Je suis Développeur Web Frontend, formée en ligne à IBM SkillsBuild. En plus,
 
 Et, je suis Artiste Multidisciplinaire avec un Master 2 en Theatre et arts vivants de l'Université Nationelle de Colombie.
 
-<center>![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-montes-zuluaga&show_icons=true)</center>center>
+<center>![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-montes-zuluaga&show_icons=true)</center>
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
