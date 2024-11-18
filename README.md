@@ -64,3 +64,7 @@ Les plugins HelloAsso ont été intégrés pour recevoir les dons des mécenats 
 Le site est actuellement en cours d'ouverture d'un site de commerce électronique. Par ailleurs, il est également en cours de traduction en anglais et en espagnol.
 ![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/ghjhpohnphh74rfap1dx)
 
+## Badges
+
+### Artificial Intelligence Fundamentals
+![App Screenshot](https://skills.yourlearning.ibm.com/credential/CREDLY-29bdaec3-af04-458e-a70e-2e6fa78c5dd5)
