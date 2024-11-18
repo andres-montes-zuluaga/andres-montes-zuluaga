@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://res.cloudinary.com/dkjkt0mba/image/upload/v1731940659/github/ss4zr6hgx6ojbyj9vega.png)](https://github.com/andres-montes-zuluaga)
+[![MasterHead](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/odap8itrtlsweom6o6f9)](https://github.com/andres-montes-zuluaga)
 # Hi, I'm Andrés! 👋
 
 
