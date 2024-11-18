@@ -28,7 +28,7 @@ Et, je suis Artiste Multidisciplinaire avec un Master 2 en Theatre et arts vivan
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-montes-zuluaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Project Title
 
