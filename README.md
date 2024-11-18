@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **andres-montes-zuluaga/andres-montes-zuluaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +24,7 @@ Je suis Développeur Web Frontend, formée en ligne à IBM SkillsBuild. En plus,
 Et, je suis Artiste Multidisciplinaire avec un Master 2 en Theatre et arts vivants de l'Université Nationelle de Colombie.
 ## 🛠 Skills
 Javascript, HTML, CSS...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 [![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-montes-zuluaga)](https://github.com/anuraghazra/github-readme-stats)
 
