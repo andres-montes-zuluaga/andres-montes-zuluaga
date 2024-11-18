@@ -26,7 +26,7 @@ Et, je suis Artiste Multidisciplinaire avec un Master 2 en Theatre et arts vivan
 ![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-montes-zuluaga&show_icons=true&theme=radical)
 
 ## 🛠 Skills
-[![Banner](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/oqmv9l18gzawk2vx86xa)](https://github.com/andres-montes-zuluaga)
+[![Banner](https://res.cloudinary.com/dkjkt0mba/image/upload/v1731943344/github/oqmv9l18gzawk2vx86xa.png)](https://github.com/andres-montes-zuluaga)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-montes-zuluaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
