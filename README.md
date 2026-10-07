@@ -2,7 +2,7 @@
 
 # Andrés Montes Zuluaga
 
-**Artista indisciplinar, creador escénico e investigador** en la intersección de las artes vivas, el performance y la cibercultura. Desarrollador de software junior enfocado en Python, administración de sistemas en Linux y analítica de datos e inteligencia artificial.
+**Artista indisciplinar, creador escénico e investigador** en la intersección de las artes vivas, el performance y la cibercultura. Desarrollador de software junior enfocado en Python y analítica de datos e inteligencia artificial.
 
 📍 Bogotá D.C., Colombia | 🌐 [andresmonteszuluaga.com](https://andresmonteszuluaga.com) | 🎭 [madma.org](https://madma.org)
 
