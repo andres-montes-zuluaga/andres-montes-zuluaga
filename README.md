@@ -1,76 +1,59 @@
-<!--
-**andres-montes-zuluaga/andres-montes-zuluaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Prométéa.live and madma.org
-- 🌱 I’m currently learning AI with SkilBuilds IBM's site and IT with La Plateforme_ at Marseille, France
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![MasterHead](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/odap8itrtlsweom6o6f9)](https://github.com/andres-montes-zuluaga)
-# Hi, I'm Andrés! 👋
 
+# Andrés Montes Zuluaga
 
-## 🚀 About Me
-Je suis étudiant de première année en BAC+3 en IT avec Spécialisation en Intelligence Artificielle à l'École Númerique La Plateforme, à Marseille, France.
+**Artista indisciplinar, creador escénico e investigador** en la intersección de las artes vivas, el performance y la cibercultura. Desarrollador de software junior enfocado en Python, administración de sistemas en Linux y analítica de datos e inteligencia artificial.
 
-Je suis Développeur Web Frontend, formée en ligne à IBM SkillsBuild. En plus, j'étude Deep Learning y Machine Learning aussi en ligne sur le site d'IBM SkillsBuild.
+📍 Bogotá D.C., Colombia | 🌐 [andresmonteszuluaga.com](https://andresmonteszuluaga.com) | 🎭 [madma.org](https://madma.org)
 
-Et, je suis Artiste Multidisciplinaire avec un Master 2 en Theatre et arts vivants de l'Université Nationelle de Colombie.
+---
 
-![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-montes-zuluaga&show_icons=true&theme=radical)
+## 🛠 Skills & Tecnologías
 
-## 🛠 Skills
-[![Banner](https://res.cloudinary.com/dkjkt0mba/image/upload/v1731943344/github/oqmv9l18gzawk2vx86xa.png)](https://github.com/andres-montes-zuluaga)
+[![Skills Banner](https://res.cloudinary.com/dkjkt0mba/image/upload/v1731943344/github/oqmv9l18gzawk2vx86xa.png)](https://github.com/andres-montes-zuluaga)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-montes-zuluaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **Lenguajes & Backend:** Python (POO, Pygame), SQL (MySQL), JavaScript, Bash / Linux CLI.
+- **Machine Learning & Datos:** NumPy, Pandas, Scikit-learn, Redes Neuronales Artificiales (ANN / Perceptrón), Jupyter Notebooks.
+- **Frontend & Web:** HTML5, CSS3, WordPress / CMS.
+- **Entorno & Herramientas:** Git, GitHub, administración de entornos Linux.
 
+---
 
-## Projets
+## 💻 Proyectos Destacados de Desarrollo
 
-### Prométéa
-Laboratoire ouvert (OpenLab) de recherche post-disciplinaire sur les pratiques de coexistence entre humains et animaux.
+### 📊 [AAA — Challenge Triple A](https://github.com/andres-montes-zuluaga/AAA)
+Dashboard ligero para el monitoreo de métricas de máquinas virtuales y sistemas Linux en tiempo real (consumo de CPU, RAM, gestión de procesos y almacenamiento). Desarrollado integrando administración de sistemas Linux, backend en Python y visualización web.
 
-#### Description
-- Developeur web
+### 🧠 [Breast Cancer Diagnosis — ANN Regression](https://github.com/andres-montes-zuluaga/breast-cancer-diagnosis-nna-regresion)
+Implementación y entrenamiento de un modelo de Redes Neuronales Artificiales (ANN) con regresión para el diagnóstico a partir del conjunto de datos clínico de Wisconsin. *(Ver también: [MultiLayerPerceptron](https://github.com/andres-montes-zuluaga/MultiLayerPerceptron)).*
 
-De Décembre 2022 à Aujourd'hui
+### 🎮 [Tic-Tac-Toe Modular POO](https://github.com/andres-montes-zuluaga/tictactoe)
+Juego clásico implementado en Python y Pygame bajo una arquitectura completamente orientada a objetos (POO). Integra oponente con IA modular en tres niveles de dificultad, interfaz gráfica responsiva y persistencia de puntuaciones.
 
-https://prometea.live/
+### 🗄️ [Gestion de Stock — Python & MySQL](https://github.com/andres-montes-zuluaga/runtrack-gestion_de_stock)
+Aplicación de escritorio para la administración de inventario, stock y flujos de almacén conectada a base de datos relacional MySQL.
 
-Développement d'une plateforme web pour la coproduction scientifique sur la santé animale. Elle comprend différents types d'utilisateurs ayant accès à différentes zones de la plateforme en fonction du groupe de recherche auquel ils appartiennent. On peut imaginer un espace de coworking mais en ligne. Vidéo, chats, profils, listes de membres, publication de résultats, calendriers, le tout au sein d'une solution web unique.
-![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/o2g3ffi8pp3scuhaxzaq)
+---
 
-<br>
-<br>
+## 🌐 Plataformas e Investigación Aplicada
 
-### Madma Productions
-Structure de création du duo franco-colombien Maud Madlyn et Andrés Montes Zuluaga. Après 10 ans d’expérience et avoir parcouru l’Inde, l'Europe et l'Amerique Latine, Madma est installée en France, à Marseille, où elle est juridiquement constituée en juin 2022.
+- **[Prométéa](https://prometea.live/):** Arquitectura y desarrollo de plataforma colaborativa de investigación científica internacional en salud animal (espacio de trabajo en línea, gestión de usuarios por grupos, resultados y calendarios).
+- **[Madma Productions](https://madma.org/):** Sitio institucional de compañía escénica transnacional con integración de módulos de crowdfunding (HelloAsso) y tienda multilingüe.
+- **Scripts de tratamiento masivo de datos:** Herramientas CLI en Python para depuración, traducción y procesamiento de bases de datos aplicadas a dramaturgias del documento y memoria pública.
 
-#### Description
-- Developeur web et Co-directeur artistique
+---
 
-De Juin 2023 à Aujourd'hui
+## 🏅 Certificaciones (IBM SkillsBuild)
 
-https://madma.org/
+<p align="left">
+  <img src="https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/bzaqvion8iclhip6unss" alt="Web Development with Python" width="280"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/zxxevejphkiuoxarbvcs" alt="Artificial Intelligence Fundamentals" width="280"/>
+</p>
 
-Conception et réalisation d'un site vitrine pour une compagnie de spectacle vivant basée à Marseille.
-Les plugins HelloAsso ont été intégrés pour recevoir les dons des mécenats et les contributions à un crowdfunding.
-Le site est actuellement en cours d'ouverture d'un site de commerce électronique. Par ailleurs, il est également en cours de traduction en anglais et en espagnol.
-![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/ghjhpohnphh74rfap1dx)
+---
 
-## Badges
-
-### Web Development with Python
-![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/bzaqvion8iclhip6unss)
-
-
-
-### Artificial Intelligence Fundamentals
-![App Screenshot](https://res.cloudinary.com/dkjkt0mba/image/upload/f_auto,q_auto/v1/github/zxxevejphkiuoxarbvcs)
-
+### 📫 Contacto
+- **Correo:** andresmonteszul@gmail.com
+- **Portafolio:** [andresmonteszuluaga.com](https://andresmonteszuluaga.com)
+```[cite: 8, 11]
